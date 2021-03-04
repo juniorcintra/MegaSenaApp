@@ -1,6 +1,6 @@
 {
   "name": "MegaSenaApp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "patch": "yarn version --patch",
     "end-sprint": "yarn version --minor",
-    "release": "yarn version --major",
+    "release": "yarn version --major"
   },
   "dependencies": {
     "react": "16.13.1",
